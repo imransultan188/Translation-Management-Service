@@ -26,7 +26,7 @@ This project is a Translation Management Service built in Laravel as part of a S
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/translation-management.git
+   git clone https://github.com/imransultan188/Translation-Management-Service.git
    cd translation-management
    ```
 2. Install dependencies:
